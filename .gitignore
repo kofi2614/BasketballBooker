@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# password
+src/credential.py
+
+# remove notebook
+*.ipynb
